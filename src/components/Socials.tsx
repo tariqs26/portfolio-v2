@@ -1,5 +1,5 @@
-import { socials } from "@/content/socials"
 import Link from "next/link"
+import { socials } from "@/content/socials"
 
 export default function Socials() {
   return (
